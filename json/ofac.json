@@ -1,0 +1,5482 @@
+[
+ {
+   "Name": "CASA DE CUBA",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIMEX",
+   "Address": "Emerson No. 148 Piso 7",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUBACANCUN CIGARS AND GIFT SHOPS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUBANATUR",
+   "Address": "Baja California 255, Edificio B. Oficina 103, Condesa",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUMEXINT, S.A.",
+   "Address": "1649 Adolfo Prieto, Colonia del Valle",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "EMPRESA CUBANA DE AVIACION",
+   "Address": "32 Main Street",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUTIERREZ REYES, Jose",
+   "Address": "Vinales Tours, Oaxaca 80, Roma",
+   "Type": "Individual",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LA EMPRESA CUBANA DE FLETES",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PRELASA",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VINALES TOURS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "CUBA",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ACCESOS ELECTRONICOS S.A.DE C.V.",
+   "Address": "Blvd. Cuauhtemoc 1711, Oficina 305, Colonia Zona Rio",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ADMINISTRADORA DE INMUEBLES VIDA, S.A. DE C.V.",
+   "Address": "Blvd. Agua Caliente 1381, Colonia Revolucion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ADP, S.C.",
+   "Address": "Tijuana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMPLEJO TURISTICO OASIS, S.A. DE C.V.",
+   "Address": "Km 25 Carr. Tijuana-Ensenada, Colonia Leyes de Reforma, Playas Rosarito",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA IMPERIAL DE BAJA CALIFORNIA, S.A. DE C.V.",
+   "Address": "Blvd. Agua Caliente 1381, Colonia Revolucion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FARMACIA VIDA SUPREMA, S.A. DE C.V.",
+   "Address": "Blvd. Agua Caliente 1381, Colonia Revolucion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FORPRES, S.C.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GEX EXPLORE S. DE R.L. DE C.V.",
+   "Address": "Avenida David Alfaro Siqueiros 2789-102, Colonia Zona Rio",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA VALPARK, S.A. DE C.V.",
+   "Address": "Avenida Cuauhtemoc 1711, Ofc. 305A, Zona Rio",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALPARK, S.A. DE C.V.",
+   "Address": "Avenida David Alfaro Siquieiros 2789, Ofc. 201A, Colonia Zona Rio",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGUILAR AMAO, Miguel",
+   "Address": "Avenida Del Sol 4551, Fraccionamiento La Escondida",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGUIRRE GALINDO, Manuel",
+   "Address": "c/o COMPLEJO TURISTICO OASIS, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARELLANO FELIX, Enedina",
+   "Address": "c/o Farmacia Vida Suprema, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FREGOSO AMEZQUITA, Maria Antonieta",
+   "Address": "Calle Jerez 538, Fraccionamiento Chapultepec",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GIL GARCIA, Jose Alejandro",
+   "Address": "Avenida Ejercito Trigarante 7865-J, Infonavit Cuchanilla 22680",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ PULIDO, Maria Elda",
+   "Address": "Calle Juan de Dios Peza 1015, Colonia Mexico 22150",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MIJARES TRANCOSO, Gilberto",
+   "Address": "Calle Luis Echeverria 6329-B, Infonavit Presidentes",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MORENO MEDINA, Luis Ignacio",
+   "Address": "Calle Guadalupe Victoria 6, Colonia Lomas Hipodromo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OROPEZA MEDRANO, Francisco Javier",
+   "Address": "Avenida Los Reyes 18108-D, Fraccionamiento Villa de Baja California 22684",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RAMIREZ AGUIRRE, Sergio Humberto",
+   "Address": "c/o Farmacia Vida Suprema, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TOLEDO CARREJO, Luis Raul",
+   "Address": "Calle De Los Olivos 10549, Colonia Jardines de Chapultepec",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA GARCIA, Ismael",
+   "Address": "Calle Presa Humaya #104, Fraccionamiento Las Quintas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPARRAGOZA MORENO, Juan Jose",
+   "Address": "Avenida Los Angeles No. 5183, Colonia Las Palmas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARELLANO FELIX ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARRILLO FUENTES ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AERO CONTINENTE S.A",
+   "Address": "Jr. Francisco Bolognesi 125, Piso 16, Miraflores",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARCE JARAMILLO, Melba Rosa",
+   "Address": "Calle Culiacan 101 Int. 702 Col. La Condesa",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORONEL VILLAREAL, Ignacio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA MARQUEZ ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA MARQUEZ, Miguel Angel",
+   "Address": "Calle Mina No. 15",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA MARQUEZ, Oscar Arturo",
+   "Address": "Avenida Sexta No. 68",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GAXIOLA MEDINA, Rigoberto",
+   "Address": "Calle Clavel No. 1406, Colonia Margarita",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIOS ADMINISTRATIVOS Y DE ORGANIZACION, S.C.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "KONTROLES ELECTRONICOS DE BAJA CALIFORNIA, S.A. DE C.V.",
+   "Address": "Ave. Azueta 11750, Col. Libertad",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA AMIA, S.A. DE C.V.",
+   "Address": "Avenida Juan Sarabia, Calle 8106, Zona Central",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MELGOZA TORRES, Martin",
+   "Address": "Paseo Coronado No. 964, Fraccionamiento El Mirador",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALTAMIRANO LOPEZ, Hector",
+   "Address": "Ave. De los Angeles #5183-4, Fracc. Las Palmas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SOTO GIL, Yolanda Esthela",
+   "Address": "Padre Mayorga No. 106, Fraccionamiento Las Californias",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MARTINEZ CASAS, Carlos Mario",
+   "Address": "c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TAPIA ORTEGA, Abigail",
+   "Address": "c/o GASOLINERAS SAN FERNANDO S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ POBLANO, Beatriz Raquel",
+   "Address": "c/o CHIHUAHUA FOODS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARRERA YLLADES, Marisela",
+   "Address": "c/o CAMBIOS PALMILLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PEREZ CASTANO, Mario Alberto",
+   "Address": "c/o CAMBIOS PALMILLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ MORENO, Arturo",
+   "Address": "c/o DEL NORTES CARNES FINAS SAN IGNACIO S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA MARQUEZ, Edgar Fernando",
+   "Address": "c/o AUTO EXPRESS DORADOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA MARQUEZ, Luis Raul",
+   "Address": "c/o AUTO EXPRESS DORADOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INDIO VITORIO S. DE P.R. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CHIHUAHUA FOODS S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.",
+   "Address": "Domicilio en Ejido Ancon de Carros",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAMBIOS PALMILLA S.A. DE C.V.",
+   "Address": "Calle Francisco Moreno S/N",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASOLINERAS SAN FERNANDO S.A. DE C.V.",
+   "Address": "Avenida 3A y Calle Mina, Colonia Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA EL PRESON S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA EL ESCORPION DEL NORTE S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DEL NORTES CARNES FINAS SAN IGNACIO S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTO EXPRESS DORADOS S.A. DE C.V.",
+   "Address": "Panamericana 110 Colonia Altavista",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LICON MUNOZ, Jorge Arturo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARRASCO MIRANDA, Willebaldo",
+   "Address": "c/o CORRALES SAN IGNACIO S.P.R. DE R.L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARREOLA GOMEZ, Guadalupe Armando",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRIOLA LUNA, Paola",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RESTREPO VICTORIA, Eduardo",
+   "Address": "c/o AGROPECUARIA PALMA DEL RIO S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RR TOUR, S.A. DE C.V.",
+   "Address": "Lopez Cotilla 1994, C.P. 44140",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMEZCUA CONTRERAS ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PLAYA MAR S.A. DE C.V.",
+   "Address": "Paseo De Los Heroes, Colonia Rio Tijuana 2110",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA ESPARTA S.A. DE C.V.",
+   "Address": "Avenida Negrete 220 Local 2B, Colonia Zona Central",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA LA PROVINCIA S.A. DE C.V.",
+   "Address": "Cuauhtemoc 6046 3 Libertad",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA ESTADO 29 S.A. DE C.V.",
+   "Address": "Ocampo 1860 4, Colonia Zona Central",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA TIJUANA COSTA S.A. DE C.V.",
+   "Address": "Agua Caliente 10440 9, Colonia Aviacion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ SOMERO, Urbano",
+   "Address": "C. Mision de Mulege 2993, Colonia Zona Urbana Rio Tijuana",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "URIBE URIBE, Miguel Angel",
+   "Address": "Calle Nevado de Toluca 845",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JIMENEZ PEREZ, Jose Julian Bruno",
+   "Address": "Calle Rio Bravo, Colonia Revolucion",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PELAYO MENDOZA, Franco Arturo",
+   "Address": "Paseo Playas de Tijuana 317",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OCHOA VASCO, Fabio Enrique",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MC OVERSEAS TRADING COMPANY SA DE CV",
+   "Address": "Justo Sierra 1963",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIZZY MUNDO INTERIOR",
+   "Address": "Justo Sierra 1963",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASTRO GARZON, Victor Hugo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MAR SEM, Maria Gloria",
+   "Address": "c/o MC OVERSEAS TRADING COMPANY S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CADENAS VIRAMONTES, Porfirio Miguel",
+   "Address": "Calle Nelson 421-B",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASTELLANOS SANCHEZ, Federico Ernesto",
+   "Address": "Calle Tauro No. 4090, Colonia Juan Manuel Vallarte",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ ORTEGA, Cesar Alejandro",
+   "Address": "c/o LIZZY MUNDO INTERIOR",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA NIEBLA, Vicente",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TORRES FELIX, Javier",
+   "Address": "Calle Paseo La Cuesta # 1550, Apt 6, Colonia Lomas De Guadalupe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARAUJO LAVEAGA, Carmen Amelia",
+   "Address": "c/o ESTANCIA INFANTIL NINO FELIZ S.C.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ DIAZ, Jesus Alfonso",
+   "Address": "c/o ESTABLO PUERTO RICO S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BUENO GARCIA, Santos",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PEREGRINA TOBOADA, Jose Antonio",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA NIEBLA, Modesta",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA NIEBLA, Monica del Rosario",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA NIEBLA, Midiam Patricia",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAMBADA NIEBLA, Maria Teresa",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NIEBLA CORDOZA, Rosario",
+   "Address": "c/o NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ROSARIO NIEBLA CARDOZA A. EN P.",
+   "Address": "Avenida Manuel Vallarta 2141, Colonia Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MULTISERVICIOS JEVIZ S.A. DE C.V.",
+   "Address": "Carretera a El Dorado # 2501, Colonia Campo El Diez",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTANCIA INFANTIL NINO FELIZ S.C.",
+   "Address": "Avenida Manuel Vallarta 2141, Colonia Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTABLO PUERTO RICO S.A. DE C.V.",
+   "Address": "Carretera El Salado, Quila KM 4",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JAMARO CONSTRUCTORES S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NUEVA INDUSTRIA DE GANADEROS DE CULIACAN S.A. DE C.V.",
+   "Address": "Calle/Boulevard Doctor Mora 1230, Colonia Las Quintas",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZAREZ SALAZAR, Victor Emilio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GULF CARTEL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZARES SALAZAR, Blanca Margarita",
+   "Address": "Calle G. Robles No. 152",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEZA GASPAR, Arturo",
+   "Address": "Avenida Rodolfo G. Robles No. 153, Sur, Colonia Aldama",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEZA CAZARES, Arturo",
+   "Address": "Avenida Rodolfo Robles 153 Sur, Colonia Jorge Almada",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEZA CAZARES, Gipsy",
+   "Address": "Mariano Escobedo No. 366-102, Colonia Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEZA CAZARES, Lizbeth",
+   "Address": "Avenida Rodolfo Robles 153 Sur, Colonia Jorge Almada",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PATRACA PONCE, Jorge Normando",
+   "Address": "Escobedo No. 366 Oriente, Departamento No. 102",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PEREZ VERDUZCO, Roberto",
+   "Address": "Calle Cerro Agudo No. 3191, Colonia Loma Linda",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN ROMERO, Mireya Denisse",
+   "Address": "Paseo Estrella de Mar No. 1210, Seccion Coronado, Colonia Playas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN SANCHEZ, Hector Manuel",
+   "Address": "Paseo Estrella Del Mar No. 1210, Playas de Tijuana",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZAREZ PEREZ, Maria Tiburcia",
+   "Address": "Calle Isla del Oeste No. 103, La Primavera",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZAREZ PEREZ, Irma",
+   "Address": "Calle Isla del Oeste No. 103, La Primavera",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZAREZ PEREZ, Efrain",
+   "Address": "Calle Torre de Londres No. 7028, Fraccionamiento Las Torres",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGUIRRE SANCHEZ, Blanca Armida",
+   "Address": "Blvd. Agua Caliente No. 148",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGUIRRE SANCHEZ, Claudia",
+   "Address": "Calle Gladiolas No. 28, Fraccionamiento Del Prado",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLIVAS OJEDA, Marco Antonio",
+   "Address": "Calle Jesus Almada No. 214, Colonia Pueblo Nuevo 1",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUIZ ZAVALA, Aleyda",
+   "Address": "Calle Cerro de la Memoria No. 1976, Fraccionamiento Colinas de San Miguel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAZUETA URREA, Epifanio",
+   "Address": "V Guerrero 109 Nte. Centro Colon y Escobedo CP 80000",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLIVAS OJEDA, Juan Carlos",
+   "Address": "Calle Sierra Madre del Sur No. 1525-A, Infonavit Canadas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLIVAS OJEDA, Jesus Joaquin",
+   "Address": "Av. Sexecnal No. 3043, Col. Republica Mexicana",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SISTEMA DE RADIO DE SINALOA, S.A. DE C.V.",
+   "Address": "Calle Francisco Villa No. 331, Col. Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TOYS FACTORY, S.A. DE C.V.",
+   "Address": "Blv. Gustavo Diaz Ordaz No. 1, Col. Las Brisas",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSORCIO INMOBILIARIO DEL VALLE DE CULIACAN, S.A. DE C.V.",
+   "Address": "Blvd. Emiliano Zapata No. 20, Col. Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PATRACA, S.A. DE C.V.",
+   "Address": "Calle Miguel Hgo No. 302, Col. Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SEPRIV, S.A. DE C.V.",
+   "Address": "Calle Donato Guerra No. 649, 1, Col. Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA INTEGRAL DE COMERCIO, S.A. DE C.V.",
+   "Address": "Blvd. Bellas Artes, No. 17686, No. Int. 5, Col. Garita de Otay",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TECNOLOGIA DIGITAL Y SERVICIOS, S.A. DE C.V.",
+   "Address": "Blv. Agua Caliente No. 21, Col. Aviacion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAZPER IMPORTACIONES, S.A. DE C.V.",
+   "Address": "Ave. Manuel Vallarta No. 2144, Col. Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MULTISERVICIOS AGSA, S.A. DE C.V.",
+   "Address": "Boulevard Agua Caliente No. 148, Revolucion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEXGLOBO, S.A. DE C.V.",
+   "Address": "Boulevard Agua Caliente No. 148, Col. Revolucion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGBAS CONSULTORES, S.A. DE C.V.",
+   "Address": "Boulevard Agua Caliente",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COCINA DE TIJUANA, S. DE R.L. DE C.V.",
+   "Address": "Boulevard Sanchez Taboada No. 10451, Colonia Urbano Rio Tijuana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HACIENDA CIEN ANOS DE TIJUANA, S. DE R.L. DE C.V.",
+   "Address": "Blvd. Sanchez Taboada S/N, No. 10451, Zona Rio, Fte. de Saverios e Arreola y cion accesso",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SIN-MEX IMPORTADORA, S.A. DE C.V.",
+   "Address": "Poniente 140 No. 639, Col. Industrial Vallejo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIAL JOANA, S.A. DE C.V.",
+   "Address": "General Eulogio Parra No. 1750-C, Col. El Retiro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA BRIMAR'S, S.A. DE C.V.",
+   "Address": "Calle Riva Palacio Sur No. 675, Col. Jorge Almada",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA TOQUIN, S.A. DE C.V.",
+   "Address": "Poniente 140 #639, Col. Industrial Vallejo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA JALSIN, S.A. DE C.V.",
+   "Address": "Parras No. 1750, Col. Educacion Alamos",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIAL DOMELY, S.A. DE C.V",
+   "Address": "Ignacio Ramirez No. 603, Col. Jorge Almada",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN LEYVA, Marcos Arturo",
+   "Address": "Avenida Juan de la Barrera No. 1970, Colonia Burocrata",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN LEYVA ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BALDENEGRO BASTIDAS, Manuel Dario",
+   "Address": "c/o AGRICOLA GAXIOLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALENCIA JAIME, Rafael Angel",
+   "Address": "c/o AGRICOLA GAXIOLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VEGA SANCHEZ, Jose Raul",
+   "Address": "c/o AGRICOLA GAXIOLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUZMAN ENRIQUEZ, Juan Luis",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LUCERO DE MARTINEZ, Sandra",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "QUINTERO ARCE, Juan Francisco",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGUIRRE CARDONA, Armando",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GARCIA DURAN, Maria Del Rosario",
+   "Address": "c/o GRUPO INDUSTRIAL GAXIOLA HERMANOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GAXIOLA GARCIA, Carlos Alberto",
+   "Address": "c/o INMUEBLES SIERRA VISTA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GAXIOLA GARCIA, Maria Elena",
+   "Address": "c/o INMOBILIARIA GAXIOLA HERMANOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DUARTE MUNOZ, Roque",
+   "Address": "c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FITCH TOVAR, Jose Manuel",
+   "Address": "c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARCE BORBOA, Ana Cristina",
+   "Address": "c/o COPA DE PLATA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FITCH PARENTE, Pablo Antonio",
+   "Address": "c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FITCH PARENTE, Jose Elmer",
+   "Address": "c/o COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GAXIOLA GARCIA, Rigoberto",
+   "Address": "c/o INMOBILIARIA GAXIOLA HERMANOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BIOESPORT S.A. DE C.V.",
+   "Address": "Avenida Ave. 13 y Morelos S/N, Colonia Bachoco",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLETES Y TRANSPORTES GAXGAR S.A. DE C.V.",
+   "Address": "Boulevard Luis Encinas No 581-B Esquina Alberto Truqui, Colonia Pimentel",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMUEBLES SIERRA VISTA S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA DE HERMOSILLO GAXIOLA HERMANOS S.A. DE C.V.",
+   "Address": "Fco. Eusebio Kino 177-7, Col. 5 de Mayo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MINERA RIO PRESIDIO S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MINERA LA CASTELLANA Y ANEXAS S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MOLDURAS DEL NOROESTE S.A. DE C.V.",
+   "Address": "Blvd. Francisco Eusebio Kino 177-7, Col. 5 de Mayo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA GAXIOLA HERMANOS S.A. DE C.V.",
+   "Address": "Blvd. Francisco Eusebio km. 177-7, Col. 5 de Mayo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA GRAN AUTO S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TEMPLE DEL PITIC S.A. DE C.V.",
+   "Address": "Blvd. Francisco Eusebio Kino 177-7, Col. 5 de Mayo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COPA DE PLATA S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMPANIA MINERA DEL RIO CIANURY S.A. DE C.V.",
+   "Address": "Calle Rio Piaxtla No. exterior 45, Col. Guadalupe",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO INDUSTRIAL GAXIOLA HERMANOS S.A. DE C.V.",
+   "Address": "Calle del Oro, Esq. Vinedo, Colonia Parque Industrial",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGRICOLA GAXIOLA S.A. DE C.V.",
+   "Address": "Calle Colonizadores No. exterior 83 y No.interior D, Esq. Quintas de las Aves, Col. Las Quintas",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RENDON POBLETE, Rosalinda",
+   "Address": "c/o LABORATORIOS WILLMAR, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PULIDO VALDIVIA, Javier",
+   "Address": "c/o LABORATORIOS WILLMAR, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LADINO AVILA, Jaime Arturo",
+   "Address": "c/o GRUPO ROLA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMEZCUA CONTRERAS, Patricia",
+   "Address": "c/o FARMACIA JERLYNE, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMEZCUA CONTRERAS, Adan",
+   "Address": "Carlos Chavez 5",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ VAZQUEZ, Jose Gerardo",
+   "Address": "c/o AMERICAN TUNE UP, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LABORATORIOS WILLMAR, S.A. DE C.V.",
+   "Address": "Calle Esteban Loera 481, Colonia Beatriz Hernandez",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FARMACIA JERLYNE, S.A. DE C.V.",
+   "Address": "Buenaventura 391, Fraccionamiento Chapultepec",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMERICAN TUNE UP, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOS ZETAS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK, TCO",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LA FAMILIA MICHOACANA",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SINALOA CARTEL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JACOME DEL VALLE, Omar Alfredo",
+   "Address": "c/o CONSULTORIA EN CAMBIOS FALCON S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BERMUDEZ DURAN, Felipe",
+   "Address": "Camino a San Mateo 41 Edif. Mackenzie - 1003, Lomas Verdes",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SUAZA BARCO, Maria del Carmen",
+   "Address": "c/o AGROESPINAL S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ MARTELL, Julio Cesar Jassan Estuardo",
+   "Address": "c/o AERONAUTICA CONDOR DE PANAMA, S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BERMUDEZ SUAZA, Pedro Antonio",
+   "Address": "c/o ASES DE COMPETENCIA Y CIA. S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSULTORIA EN CAMBIOS FALCON S.A. DE C.V.",
+   "Address": "Centro Comercial Interlomas Local U-16 P.A., Boulevard Interlomas 5, Colonia La Herradura",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AERONAUTICA CONDOR S.A. DE C.V.",
+   "Address": "Calle 3 Hangar 22 al 29, Aeropuerto Internacional Toluca",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO GUADALEST S.A. DE C.V.",
+   "Address": "Calle Enrique Wallon 424 Alts. Hab. 13, Rincon del Bosque y Presidente Mazarik, Colonia Polanco",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ RODRIGUEZ, Jorge Octavio",
+   "Address": "c/o CIMIENTOS LA TORRE S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARAMBULA GARCIA, Luz del Rocio",
+   "Address": "C. Las Palmas No. 2700 Int. 14, Colonia Atlas Colomos",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES SALINAS, Mario Antonio",
+   "Address": "C. Las Palmas No. 2700 Int. 14, Colonia Atlas Colomos",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUMBRES SOLUCIONES INMOBILIARIAS S.A. DE C.V.",
+   "Address": "Avenida Miguel Angel 18, Colonia Real Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIMIENTOS LA TORRE S.A. DE C.V.",
+   "Address": "Calle San Uriel 690, Interior 10, Piso 4, Colonia Chapalita",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TREVINO MORALES, Miguel",
+   "Address": "Calle Veracruz 825",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAZCANO LAZCANO, Heriberto",
+   "Address": "Mariano Zavala 51, Seccion 16",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARDENAS GUILLEN, Ezequiel",
+   "Address": "Calle Maples Y Abeto, Fraccionamiento Las Arboleras",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COSTILLA SANCHEZ, Jorge Eduardo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LEYVA ESCANDON, Edgardo",
+   "Address": "Apt. 513, Calle Tampico, Colonia Cacho",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REYES GARZA, Agustin",
+   "Address": "c/o ESTETIC CARR DE OCCIDENTE, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONTRERAS NOVOA, Hector",
+   "Address": "Avenida Chapalita No. 1015",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTETICA CAR WASH S.A. DE C.V.",
+   "Address": "Aviacion No. 5250, Colonia Valle Real",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTETIC CARR DE OCCIDENTE, S.A. DE C.V.",
+   "Address": "Periferico Norte No. 3109, Colonia Tabachines",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MORENO PEREZ, Felipe",
+   "Address": "c/o MOREXPRESS, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HUERTA RAMOS, Manuel",
+   "Address": "c/o SERVICIO AEREO LEO LOPEZ, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MARTINEZ CANTABRANA, Cesar",
+   "Address": "c/o ILC EXPORTACIONES, S. DE R.L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUTIERREZ BARBOZA, Maureen Patricia",
+   "Address": "c/o ILC EXPORTACIONES, S. DE R.L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DE ICAZA LOZANO, Alejandro",
+   "Address": "c/o ILC EXPORTACIONES, S. DE R.L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LABORIN ARCHULETA, Clara Elena",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN LEYVA, Alfredo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELTRAN LEYVA, Hector",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MOREXPRESS, S.A. DE C.V.",
+   "Address": "Prol. Central ote. S/N",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ILC EXPORTACIONES, S. DE R.L. DE C.V.",
+   "Address": "General Victoriano Cepeda 2, Colonia Observatorio, Miguel Hidalgo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MENDEZ VARGAS, Jose de Jesus",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MORENO GONZALEZ, Nazario",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOYA PLANCARTE, Dionicio",
+   "Address": "Calle Sin Nombre 100, Cenobio Moreno",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GOMEZ MARTINEZ, Servando",
+   "Address": "236 Ave. Lazaro Cardenas, Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PLANCARTE SOLIS, Enrique",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BARRERA MEDRANO, Nicandro",
+   "Address": "c/o Purepecha Trucking Co.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TRANSPORTADORA PUREPECHA S.A. DE C.V.",
+   "Address": "Avenida de la Revolution 7, Zumpimito, Carr. Apatzingan y Articulo 27",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VELASQUEZ CABALLERO, Juan Daniel",
+   "Address": "Colonia Infonavit",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NAJERA TALAMANTES, Sigifredo",
+   "Address": "Dionicio Carreon 228, Colonia Alianza",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CANO FLORES, Aurelio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BARRAGAN BALDERAS, Gilberto",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEJIA GONZALEZ, Juan Reyes",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES BORREGO, Samuel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PENA MENDOZA, Sergio",
+   "Address": "Miguel Hidalgo 410, Concordia",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RAMIREZ TREVINO, Mario",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VELASQUEZ CABALLERO, Ivan",
+   "Address": "Calle Nuevo Leon, Colonia Riveras Del Rio",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TREVINO MORALES, Omar",
+   "Address": "Colonia Militar",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ RODRIGUEZ, Dimas",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ROSALES MENDOZA, Carlos Alberto",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASTREJON PENA, Victor Nazario",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ ESTEBAN, Alvaro",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ACOSTA IBARRA, Ruben",
+   "Address": "Calle Siete de Abril No. 5, Colonia Hidalgo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES SOTO, Mario",
+   "Address": "Privada A2 28, Colonia Infonavit",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VARGAS GARCIA, Nabor",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LECHUGA LICONA, Alfonso",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LORMENDEZ PITALUA, Omar",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IBARRA YEPIS, Prisciliano",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DAVILA LOPEZ, Jose Ramon",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ LECHUGA, Lucio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RANGEL BUENDIA, Alfredo",
+   "Address": "Privada Laredo 6412, Colonia Hipodromo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GALARZA CORONADO, Jose Antonio",
+   "Address": "Privada Los Ebanos 105, Fraccionamiento Pedregal",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MENDOZA CONTRERAS, Cipriano",
+   "Address": "Calle Venustiano Carranza No. 904, Col. Josefa Ortiz de Dominguez",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HERNANDEZ BARRON, Raul",
+   "Address": "Calle Congregacion Troncones y Potrerillos, Colonia Congrecaciones Troncones y Potrerillos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PEREZ ROJAS, Daniel",
+   "Address": "Fraccionamiento Santa Isabel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TORRES SOSA, Benjamin",
+   "Address": "Avenida Insurgentes Centro No. 60, No. Int. 1, Colonia Tabacalera, Delegacion Cuauhtemoc",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MATEO LAUREANO, Ignacio",
+   "Address": "Calle Mariano Matamoros No. 58, Centro, Colonia San Gabriel Chilac",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEDINA ROJAS, Eleazar",
+   "Address": "Cuauhtemoc 805",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ TREJO, Fernando",
+   "Address": "Calle Abasolo No. 15, Colonia Miguel Aleman",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUIZ TLAPANCO, Sergio Enrique",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALENZUELA ZUNIGA, Ruben Alejandro",
+   "Address": "Privada Garcia Conde No. 107, Int. 06, Col. San Felipe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MURO GONZALEZ, Proceso Arturo",
+   "Address": "Calle Gustavo Garmendia No. 1850, Colonia Hidalgo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REYES ENRIQUEZ, Luis",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SOTO PARRA, Miguel Angel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PEREZ MANCILLA, Alejandro",
+   "Address": "Calle Ninos Heroes No. 143, entre Miguel Hidalgo y Jose Maria Morelos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUERRA RAMIREZ, Rogelio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MENDEZ SANTIAGO, Flavio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ CASTRO, Gustavo",
+   "Address": "Calle Avalo No. 28, Colonia Las Lomas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VERA CALVA, Carlos",
+   "Address": "Calle E. Zapata No. 2, Col. Plan de Ayala",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ORTEGA GALICIA, Ismael Marino",
+   "Address": "Calle Mariano Matamoros, No. 58, Centro, Col. San Gabriel Chilac",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARBAJAL REYES, Ramon Ulises",
+   "Address": "Calle Michoacan No. 42, Int. 02, Zono Central",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GERESANO ESCRIBANO, Gonzalo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MELLADO CRUZ, Galdino",
+   "Address": "Calle Llano Grande",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTRADA GONZALEZ, Eduardo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ PIZANA JR., Rogelio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ROMO LOPEZ, Martin",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MONTES SERMENO, Juan Gabriel",
+   "Address": "Calle Libertad No. 5, Col. San Fernando",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VASQUEZ MIRELES, Victor Manuel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REJON AGUILAR, Jesus Enrique",
+   "Address": "Calle Hidalgo No. 6, Col. Sabancuy",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DIAZ LOPEZ, Mateo",
+   "Address": "Calle Guatemala No. 5610, Colonia Hipodromo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ DURAN, Jaime",
+   "Address": "Calle Xolmon, Tampaxal, Colonia Aquismon",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SAUCEDA GAMBOA, Gregorio",
+   "Address": "Avenida Manuel M. Ponce 2404, Colonia Zaragoza",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VILLARREAL BARRAGAN, Sergio Enrique",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ ALVAREZ, Wenceslao",
+   "Address": "Esquina de la Calle Vicente Guerrero y Plan de Iguala Numero 74, Colonia Libertad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEJIA GUTIERREZ, Ignacio",
+   "Address": "Colonia La Estacion",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEGA EMPACADORA DE FRUTAS S.A. DE C.V.",
+   "Address": "Carretera Nueva Italia-Uruapan, Kilometro 2, Colonia La Estacion",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IMPORTACIONES Y EXPORTACIONES NOBARO S.A. DE C.V.",
+   "Address": "Avenida Lazaro Cardenas Numero 730",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTOTRANSPORTES JYM S.A. DE C.V.",
+   "Address": "Calle Primera S/N 820, Poste No. 1504, Colonia Piggy Back, Poblado Campo El Diez",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARTE Y DISENO DE CULIACAN S.A. DE C.V.",
+   "Address": "Calle Rio Santa Maria, No. 1252, Colonia Los Pinos",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ FERNANDEZ, Andre",
+   "Address": "c/o AERONAUTICA CONDOR S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MASA FACIL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNT",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMAYA ALEMAN, Onecimo Antonio",
+   "Address": "c/o AERO EXPRESS INTERCONTINENTAL S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "WIDOBLO HERNANDEZ, Jose",
+   "Address": "c/o AERO EXPRESS INTERCONTINENTAL S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLVERA ESTRADA, Arturo",
+   "Address": "c/o GENETICA GANADERA RANCHO ALEJANDRA S.P.R. DE R. L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLVERA ESTRADA, Rodolfo",
+   "Address": "c/o GENETICA GANADERA RANCHO ALEJANDRA S.P.R. DE R. L. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES CACHO, Javier",
+   "Address": "Avenida del Taller No. 23, Ret. 17, Colonia Jardin Balbuena, Delegacion Venustiano Carranza",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MASSA CAMACHO, Eduardo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DUARTE TORRES, Rafael",
+   "Address": "Lomas de Anahuac No. 86",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TORO DIAZ, Diana Lorena",
+   "Address": "c/o GRUPO CRISTAL CORONA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "URREA LENIS, Jair Fernando",
+   "Address": "c/o GRUPO CRISTAL CORONA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ MEDINA, Jaime Andres",
+   "Address": "c/o GRUPO CRISTAL CORONA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COBO LEDESMA, Juan Carlos",
+   "Address": "c/o GRUPO CRISTAL CORONA S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODARTE GRIJALVA, Jose Luis",
+   "Address": "Calle Sierra del Pulpito No. 3206, Colonia Hacienda de Santa Fe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JASSO ROCHA, Oscar Arturo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GARCIA SANCHEZ, Ricardo",
+   "Address": "c/o MANTENIMIENTO, AERONAUTICA, TRANSPORTE, Y SERVICIOS AEREOS S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES CACHO, Alejandro",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO HORTA ZAVALA S.A. DE C.V.",
+   "Address": "Boulevard Aguacaliente No. 4558-1602, Aviacion, Carranza y Pablo Sidar",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COPY RED S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIRCUITO ELECTRONICO S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO CRISTAL CORONA S.A. DE C.V.",
+   "Address": "Avenida Insurgentes No. 23, Interior 506, Piso 5, Colonia San Rafael, Delegacion Cuauhtemoc",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AERO EXPRESS INTERCONTINENTAL S.A. DE C.V.",
+   "Address": "Oriente 158 No. 390-E, Colonia Moctezuma, Segunda Seccion, Delegacion Venustiano Carranza",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAPACITACION AERONAUTICA PROFESIONAL S.C.",
+   "Address": "La Avendia Vicente Guerrero No. 749, Colonia Prados Cuernavaca",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MANTENIMIENTO, AERONAUTICA, TRANSPORTE, Y SERVICIOS AEREOS S.A. DE C.V.",
+   "Address": "Calle 2, Hangar 10, Lot 19, Aeropuerto Internacional de Toluca",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CLUB DEPORTIVO OJOS NEGROS A.C.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GENETICA IMPORT-EXPORT S.P.R. DE R.L. DE C.V.",
+   "Address": "Calle Alvarado No. 143, Local 5-J, Zona Centro, Ojos Negros, Domicilio Conocido",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GENETICA GANADERA RANCHO ALEJANDRA S.P.R. DE R. L. DE C.V.",
+   "Address": "Calle Alvarado No. 143, Local 5-J, Zona Centro, Ojos Negros, Domicilio Conocido",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LORENA DEL MAR, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORBEL OPERADORA DE RESTAURANTES, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TATES DESARROLLO, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JR CONTROLADORA DE RESTAURANTES, S.A. DE C.V.",
+   "Address": "Martin L. Guzman 259-3, Colonia Villa de Cortes, Delegacion Benito Juarez",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LLANOS GAZIA, Jorge Luis",
+   "Address": "c/o AUDIO ALARMAS, S.A. DE C.V.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUDIO ALARMAS, S.A. DE C.V.",
+   "Address": "Paseo de los Tilos No. 1344 A, Col. Rancho Blanco",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BASALTOS TONALA, S.A. DE C.V.",
+   "Address": "Zona Metropolitana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIFUENTES VILLA, Jorge Milton",
+   "Address": "Calle 6 No. 33-29 Apto. 801",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GALLEGO MARIN, Fabian Rodrigo",
+   "Address": "c/o IGA LTDA.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ ZEPEDA, Alfredo",
+   "Address": "C. Paloma 903, Col. Fatima",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIFUENTES VILLA, Hector Mario",
+   "Address": "c/o C.I. OKCOFFEE COLOMBIA S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIFUENTES VILLA, Teresa de Jesus",
+   "Address": "c/o C.I. DISTRIBUIDORA DE SERVICIOS COMBUSTIBLES Y MINERIA S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ MEJIA, Claudia Estela",
+   "Address": "c/o DOLPHIN DIVE SCHOOL S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VARGAS CIFUENTES, Edmon Felipe",
+   "Address": "c/o HOTELES Y BIENES S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VARGAS CIFUENTES, Paula Andrea",
+   "Address": "c/o C.I. GLOBAL INVESTMENTS S.A.",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUBI CAFE CLICK CUBE MEXICO, S.A. DE C.V.",
+   "Address": "Montecito No. 38 Piso 21 Of. 29, Col. Napoles, Deleg. Benito Juarez",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LE CLAUDE, S.A. DE C.V.",
+   "Address": "Calle Miguel E. Shultz No. 127, Colonia San Rafael, Delegacion Cuauhtemoc",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA NUEVA GRANADA, S.A. DE C.V.",
+   "Address": "Avenida 13 No. 4-77",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RED MUNDIAL INMOBILIARIA, S.A. DE C.V.",
+   "Address": "Av. Parques de Granada No. 32-405, Col. Parques de la Herradura",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOS GUEROS",
+   "Address": "Coto Cataluna No. 84",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ OLIVERA, Luis",
+   "Address": "Plaza Pabellion",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ OLIVERA, Esteban",
+   "Address": "Ricardo Giradles 5107, Colonia Jardines de Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ OLIVERA, Daniel",
+   "Address": "Vereda del Canario 1",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ OLIVERA, Miguel",
+   "Address": "C Simon Blvd. No. 47, Col Aviacio",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AVENDANO OJEDA, Sergio",
+   "Address": "Calle Paseo Humaya No. 1466, Colonia Rincon de Guadalupe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AVENDANO OJEDA, Hector Manuel",
+   "Address": "c/o AUTODROMO CULIACAN",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AVENDANO OJEDA, Martin Guadencio",
+   "Address": "c/o AUTOS MINI",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTODROMO CULIACAN RACE PARK",
+   "Address": "Blvd. Universitarios No. 196 Ote., Piso 4, Colonia Tierra Blanca",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTOS MINI",
+   "Address": "Avenida Delante, No. 1806, Colonia Costa Bella",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TORRES FELIX, Manuel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INZUNZA INZUNZA, Gonzalo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELLOSO RODRIGUEZ, Daniel",
+   "Address": "Joaquin Aguirre 788",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BELLOSO RODRIGUEZ, Miguel Angel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GALAVIZ MARTIN, Mayra",
+   "Address": "Manuel Clouthier #486, Colonia Prados Vallarta",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VASQUEZ HERNANDEZ, Alfredo",
+   "Address": "Manuel Clouthier #486, Colonia Prados Vallarta",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INTERNATIONAL GROUP OIRALIH, S.A. DE C.V.",
+   "Address": "Boulevard Interlomas 5 Local W-13, Colonia San Fernando La Herradura",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FIGUEROA VASQUEZ, Ezio Benjamin",
+   "Address": "Avenida Pinos 330-2",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FIGUEROA GOMEZ, Hassein Eduardo",
+   "Address": "Las Cortes 2935, Barajas Villasenor",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLO ARQUITECTONICO FORTIA, S.A. DE C.V.",
+   "Address": "Avenida Vallarta No. 6503, Piso 15, Col. C.D. Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLOS INMOBILIARIOS CITADEL, S.A. DE C.V.",
+   "Address": "Calzada de los Fresnos, No. 70 A, Desp. 101, Col. Ciudad Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLOS TURISTICOS FORTIA, S.A. DE C.V.",
+   "Address": "Johanes Brahms No. 209, Int. 10, Col. Residencial La Estancia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISPOSITIVOS INDUSTRIALES DINAMICOS, S.A. DE C.V.",
+   "Address": "Gaseoducto No. 7, Parque Industrial Puebla 2000",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA MEDICA HOSPITALARIA, S.A. DE C.V.",
+   "Address": "Colima No. 323 Int. 9, Col. Roma Norte, Cuauhtemoc",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "EL PALOMAR CAR WASH, S.A. DE C.V.",
+   "Address": "Plaza El Palomar, Zona M Unico El P. Panor, Col. El Palomar",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FORTIA BAJA SUR, S.A. DE C.V.",
+   "Address": "Calzada Fresnos No 70-A, Int. 102, Col. Ciudad Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GEOFARMA S.A. DE C.V.",
+   "Address": "Colonias No. 269",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO COMERCIAL SAN BLAS, S.A. DE C.V.",
+   "Address": "Colonias 269",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO F Y F MEDICAL INTERNACIONAL DE EQUIPOS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PROMOCIONES CITADEL, S.A. DE C.V.",
+   "Address": "Calzada del Fresnos 70-A, Desp. 104, Col. Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PUNTO FARMACEUTICO S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SCUADRA FORTIA, S.A. DE C.V.",
+   "Address": "Paseo De Las Lomas No. 90, El Colli Ejidal",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TECNOLOGIA OPTIMA CORPORATIVA S. DE R.L. DE C.V.",
+   "Address": "Vereda de la Codorniz, No. 100, Col. Coto Cataluna, Puerta de Hierro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "UNION ABARROTERO DE JALISCO S.C. DE R.L. DE C.V.",
+   "Address": "Avenida Lazaro Cardenas No. 3446-14",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ ZEPEDA, Oscar",
+   "Address": "Avenida Francisco Solis No. 30-B, Colonia Vicente Lombardo Toledano",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALDEZ BENITES, Joel",
+   "Address": "Avenida Mar Baltico No. 944, Colonia Lombardo Toledano",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUZMAN SALAZAR, Jesus Alfredo",
+   "Address": "Cerrada Nayar No. 222, Colonia Ciudad del Sol",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SALAZAR HERNANDEZ, Maria Alejandrina",
+   "Address": "Avenida Central 1191-35, Condominio Malaga, Colonia Parques de la Castellana",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUZMAN SALAZAR, Ivan Archivaldo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUZMAN LOPEZ, Ovidio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIMON SANCHEZ, Ovidio",
+   "Address": "Calle Plan de Iguala #2951, Colonia Emiliano Zapata",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SALGUEIRO NEVAREZ, Noel",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COLORADO CESSA, Francisco Antonio",
+   "Address": "C Rio Tonala #3, Colonia Jardines",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IBARRA CARDONA, Luis Gerardo",
+   "Address": "Calle Lago de La Doga 5312",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARDONA MARTINEZ, Mayela",
+   "Address": "Calle Lago de La Doga 5312",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IBARRA CARDONA, Carlos Jesus Ivan",
+   "Address": "Calle Lago La Doga 5312",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARDONA MARTINEZ, Pedro",
+   "Address": "Calle Lago La Doga 5301",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA GERMAY S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTACIONES DE SERVICIOS CANARIAS, S.A. DE C.V.",
+   "Address": "Blvd. Enrique Felix Castro No. 1029, Col. Desarrollo Urbano Tres Rios",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPARRAGOZA GASTELUM, Nadia Patricia",
+   "Address": "Anillo de Periferico Sur No. 4863 Interior 902, Colonia Tepepan, Delegacion Tlalpan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ PEREZ, Griselda Natividad",
+   "Address": "Cerro de las Siete Gotas #642, Fraccionamiento Colinas de San Miguel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASOLINERA Y SERVICIOS VILLABONITA, S.A. DE C.V.",
+   "Address": "Av. Alvaro Obregon No. 6040, Col. Villa Bonita",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPARRAGOZA GASTELUM, Brenda Guadalupe",
+   "Address": "Calle Calkini Manzana 11 Lote 1, Colonia Residencia Sol del Mayab",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPARRAGOZA GASTELUM, Juan Ignacio",
+   "Address": "Avenida de la Patria No. 685 Interior 1, Fraccionamiento Jardines Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MONZON ARAUJO, Ofelia",
+   "Address": "Calle Bahia de Topolobampo No. 1628, Colonia Nuevo Culiacan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GUZMAN OCHOA, Ulises",
+   "Address": "Calle Golfo de California No. 1585, Colonia Nuevo Culiacan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PONCE FELIX, Martin Humberto",
+   "Address": "Calle Rodolfo G. Robles No. 40, Colonia Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO CINJAB, S.A. DE C.V.",
+   "Address": "Av. Adolfo Lopez Mateos No. 5555, Col. Santa Anita",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO IMPERGOZA, S.A. DE C.V.",
+   "Address": "Av. Adolfo Lopez Mateos No. 5565, Col. Santa Anita",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PETROBARRANCOS, S.A. DE C.V.",
+   "Address": "Av. Benjamin Hill No. 5602, Col. Industrial el Palmito",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPARRAGOZA GASTELUM, Cristian Ivan",
+   "Address": "Avenida de la Patria No. 685 Interior 1, Fraccionamiento Jardines Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IBARRA FAVILA, Jose Gerardo",
+   "Address": "Calle Lago de La Doga 5312",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BUENOS AIRES SERVICIOS, S.A. DE C.V.",
+   "Address": "Blvd. Guillermo Batiz Paredes No. 1100, Col. Buenos Aires",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASTELUM PAYAN, Maria Guadalupe",
+   "Address": "Avenida Camino a la Tijera No. 806, Fraccionamiento La Tijera",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA GERMAY DE SONORA S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASODIESEL Y SERVICIOS ANCONA, S.A. DE C.V.",
+   "Address": "Manuel J. Clouthier No. 1800, Col. Libertad",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASOLINERA ALAMOS COUNTRY, S.A. DE C.V.",
+   "Address": "Blvd. Pedro Infante No. 3050, Col. Recursos Hidraulicos",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARAUJO MONZON, Elvira",
+   "Address": "Avenida Ramon Lopez Velarde No. 3240, Colonia Presidentes de Mexico",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MEZA FLORES DRUG TRAFFICKING ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES APODACA, Augustin",
+   "Address": "Calle Sierra Madre Occidental No. 1280, Colonia Canadas",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIOS CHULAVISTA, S.A. DE C.V.",
+   "Address": "Blvd. Las Torres No. 2622 Pte., Fracc. Prados del Sol",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ADT PETROSERVICIOS, S.A. DE C.V.",
+   "Address": "Carretera Federal Mexico - Tuxpan Km. 255 S/N, Santiago de la Pena",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FELIX FELIX, Victor Manuel",
+   "Address": "Callejon Hortensias No. 320, Colonia Ciudad Bugambilias",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ CARDENAS, Jorge Guillermo",
+   "Address": "Calle Moras No. 543-B, Colonia Del Valle, Delegacion Benito Juarez",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VILLA DIAZ, Oscar Dominguez",
+   "Address": "Calle Acapulco No. 35 Interior 804, Colonia Roma, Delegacion Cuauhtemoc",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DIAS PANIAGUA, Rigoberto",
+   "Address": "Calle Yacatas No. 366, Planta Alta, Colonia Narvarte, Delegacion Benito Juarez",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VAZQUEZ VILLAVICENCIO, Gabriela",
+   "Address": "Edificio G-11 Interior No. 24, Unidad Habitacional, Lomas de Plateros, Delegacion Alvaro Obregon",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTO SERVICIO JATZIRY S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSTRUCTORA JATZIRY DE GUASAVE S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AUTOTRANSPORTES TERRESTRES S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA CACHO S.A. DE C.V.",
+   "Address": "Calle Lago La Doga 5312",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "URBANIZADORA NUEVA ITALIA, S.A. DE C.V.",
+   "Address": "Calle Morelos No. 2223, Colonia Arcos Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SOCIALIKA RENTAS Y CATERING, S.A. DE C.V.",
+   "Address": "Blvd. Lopez Mateos No. 9140, Col. El Palomar",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MS-13",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "TCO",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ANDRADE PARRA, Alfredo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ NUNEZ, Damaso",
+   "Address": "Avenida Nicolas Bravo No. 1607, Colonia Guadalupe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORONEL BARRERAS, Ines",
+   "Address": "La Angostura",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLOS EVEREST, S.A. DE C.V.",
+   "Address": "Cerrada Diego Rivera No. 347, Col. Desarrollo Urbano 3 Rios",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTRADA GUTIERREZ, Julio Cesar",
+   "Address": "Calle Platon 268, Col. Paso Blanco",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BUENROSTRO VILLA, Denisse",
+   "Address": "Circuito Madrigal 4236-05",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO ELENES, Hector Rafael",
+   "Address": "Callejon del Serrano 4361",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO ELENES, Henoch Emilio",
+   "Address": "Callejon del Sereno No. 4361, Col. Fracc. Jardines Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO ELENES, Mario Yibran",
+   "Address": "Callejon del Sereno No. 4361, Col. Fracc. Jardines Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO ELENES, Roxana Elizabeth",
+   "Address": "Callejon del Sereno No. 4361, Col. Fracc. Jardines Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ELENES LERMA, Maria Elizabeth",
+   "Address": "San Gonzalo No. 1715, Colonia Santa Isabel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RAMIREZ PERALES, Jose Odilon",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOPEZ GUERRERO, Ismael",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASA EL VIEJO LUIS DISTRIBUIDORA, S.A. DE C.V.",
+   "Address": "El Paraiso No. 6848, Col. Ciudad Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO COMERCIAL ROOL, S.A. DE C.V.",
+   "Address": "Alberta No. 2288 4B, Col. Jardines de Providencia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RANCHO EL NUEVO PACHON, S. DE R.L. DE C.V.",
+   "Address": "Km. 14 Camino Viejo a San Isidro Mazatepec",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA Y ADMINISTRADORA DE RESTAURANTES Y BARES RUDU, S.A. DE C.V.",
+   "Address": "Vallarta No. 2380, Col. Colinas De San Javier",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLIVERA JIMENEZ, Juana",
+   "Address": "Calle Velazquez #167, Colonia Real Vallarta",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BLUE POINT SALT, S.A. DE C.V.",
+   "Address": "A Las Rocas No. 244, Col. Prados Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLOS BIO GAS, S.A. DE C.V.",
+   "Address": "Independencia Sur No. 185, Col. Analco",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ECA ENERGETICOS, S.A. DE C.V.",
+   "Address": "Calle Adolfo B. Horn No. 1437, Col. Pueblo Toluquilla",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ORGANIC SALT, S.A. DE C.V.",
+   "Address": "Callejon del Sereno No. 4361, Col. Jacarandas Zapopan 4",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PETRO BIO, S. DE R.L. DE C.V.",
+   "Address": "Independencia Sur No. 185, Col. Analco",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PRONTO SHOES, S.A. DE C.V.",
+   "Address": "16 de Septiembre 635, Casi Esq. la Paz",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DURAN NUNEZ, Juan Carlos",
+   "Address": "Calle Johanes Brahams #355, Interior 10, Fraccionamiento La Estancia",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ELIZONDO CASTANEDA, Andres Martin",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REYES MAGANA, Felipe",
+   "Address": "Calle Juan Jose Arreola #535, Col. Lomas Vista Hermosa",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REFORESTACIONES CARELES, S. DE P.R. DE R.L.",
+   "Address": "Callejon del Sereno No. 4361, Col. Fracc. Jardines Universidad",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HACIENDA LAS LIMAS, S.A. DE C.V.",
+   "Address": "Carretera a Ciudad Guzman Km. 49, entre de crucero de Atoyac y crucero de Amacueca",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PARQUE ACUATICO LOS CASCABELES, S.A. DE C.V.",
+   "Address": "Carretera Interior a Costa Rica Km. 6, El Carrizal 2",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VERDUGO GARCIA, Monica Janeth",
+   "Address": "Cipriano Obeso 1520, Colonia Chapultepec",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RANCHO AGRICOLA GANADERO LOS MEZQUITES, S.A. DE C.V.",
+   "Address": "Entrada a los Cascabeles 2.8 Carretera Internacional Sur Km. 22",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GARCIA RIOS, Tomasa",
+   "Address": "Cipriano Obeso 1520, Colonia Chapultepec",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "EVCOMER, S.A. DE C.V.",
+   "Address": "Independencia Sur No. 185, Col. Analco",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "EL BANO DE MARIA, S. DE R.L. DE C.V.",
+   "Address": "Periferico Poniente No. 2100, Col. Ciudad Granja",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ASESORIA Y SERVICIOS ADMINISTRATIVOS, TECNICOS Y OPERATIVOS DUREL, S.A. DE C.V.",
+   "Address": "Av. Mexico No. 2798, Int 3B, Col. Terranova",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SOLIS AVILES, Angello de Jesus",
+   "Address": "Calle Camino Los Lagos No. 4070-A, Fraccionamiento Centenario",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VILLEGAS LOERA, Juan Carlos",
+   "Address": "Calle Golfo de California No. 1635, Colonia Nuevo Culiacan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CENTRO COMERCIAL Y HABITACIONAL LOMAS, S.A. DE C.V.",
+   "Address": "Boulevard Emiliano Zapata #3125, Colonia Lomas Del Boulevard",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO FRACSA, S.A. DE C.V.",
+   "Address": "Av. Vallarta No. 3060, Col. Vallarta Norte",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DBARDI, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO CONSTRUCTOR SEGUNDO MILENIO, S.A. DE C.V.",
+   "Address": "Av. Acueducto, s/n Col. Fraccionamiento Jardines del Country",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PISCILANEA, S.A. DE C.V.",
+   "Address": "Provenza Center, Av. Lopez Mateos No. 5565, Loc 23, Col. Santa Anita",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RESTAURANT BAR LOS ANDARIEGOS, S.A. DE C.V.",
+   "Address": "Buenos Aires No. 3090, esq. Montevideo, Col. Providencia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ BARBA, Jose de Jesus",
+   "Address": "Av. Vallarta No. 3060, Col. Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ GARZA, Mauricio",
+   "Address": "Av. Vallarta No. 3060, Colonia Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ GARZA, Jose de Jesus",
+   "Address": "Av. Vallarta No. 3060, Colonia Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ GARZA, Diego",
+   "Address": "Av. Vallarta No. 3060, Colonia Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GARZA RODRIGUEZ, Beatriz",
+   "Address": "Av. Vallarta No. 3060, Colonia Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RIEBELING CORDERO, Hilda",
+   "Address": "3888 Calle Paseo de los Parques, Colonia Colinas de San Javier",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ GONZALEZ, Ruben",
+   "Address": "Av. Arcos 960, Colonia Jardines del Bosque",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALLARTA ESCALANTE, Luis Francisco",
+   "Address": "Calle Chilam Balam No. 279, Supermanzana 50, Manzana 14, Lote 17, Residencial San Angel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOS CABALLEROS TEMPLARIOS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VILLA SANCHEZ, Arnoldo",
+   "Address": "Calle Paseo San Carlos 3013, Fraccionamiento Valle Real",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOZA HERNANDEZ, Miguel",
+   "Address": "Periferico Sur No. 4091, Unidad Habitacional Emilio Porte Gil, Delegacion Tlalpan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SISTEMAS ELITE DE SEGURIDAD PRIVADA, S.A. DE C.V.",
+   "Address": "Mexialtzingo 1964, Col. Americana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FERNANDEZ DE LUNA, Jesus",
+   "Address": "Calle Miguel Hidalgo, No. 212, Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FERNANDEZ DE LUNA, Gerardo",
+   "Address": "Calle Zaragoza No. 105, Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ MUNIZ, Esperanza Maria",
+   "Address": "Miguel Hidalgo Norte, No. 212, Zona Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FERNANDEZ GONZALEZ, Carolina",
+   "Address": "Cinco Manantiales",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ MUNIZ, Emilio Guillermo",
+   "Address": "Calle Enrique Cavazos No. 2326, Colonia Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMPANIA GANADERA 5 MANANTIALES S. DE P.R. DE R.L.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASA V",
+   "Address": "Av. Vallarta 1339, Colonia Americana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TAPIA QUINTERO, Jose Guadalupe",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARIATIDE GRUPO INMOBILIARIO, S.A. DE C.V.",
+   "Address": "Av. Vallarta No. 3216, Col. Vallarta San Jorge",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA CORSANCH, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BARSAT, S.A. DE C.V.",
+   "Address": "Lope de Vega No. 232, Arcos Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLADORA SAN FRANCISCO DEL RINCON, S.A. DE C. V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DINERMAS, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ENERGETICOS VAGO, S.A. DE C.V.",
+   "Address": "Cuauhtemoc No. 252, Valle de San Sebastian",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESTACION DE SERVICIO ATEMAJAC, S.A. DE C.V.",
+   "Address": "Calle Mar Baltico # 2240-408, Colonia Country Club",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FORTANAS, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO BARSATERRA S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO ESPANOL ELCAR, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MINERALES NUEVA ERA, S.A. DE C.V.",
+   "Address": "Calle San Antonio No. 70, Col. Las Fuentes",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MINERALES NUEVA GENERACION, S.A. DE C.V.",
+   "Address": "Calle San Antonio No. 70, Col. Las Fuentes",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NUEVA TERRA, S. DE R.L. DE C.V.",
+   "Address": "Lope de Vega No. 232, Arcos Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA ENGO, S.C.",
+   "Address": "Comercio 172, Mexicaltzingo",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PETRO MAS, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PROMI FEL, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VILLAS DEL COLLI S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA PROMINENTE, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PETRO LONDON, S. DE R.L. DE C.V.",
+   "Address": "Lazaro Cardenas No. 4094, Don Bosco Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIO Y OPERADORA SANTA ANA, S.A. DE C.V.",
+   "Address": "Camino a Santa Ana Tepetitlan No. 316, Colonia Agricola",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TAXI AEREO NACIONAL DE CULIACAN, S.A.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SOTO RUIZ, Juan Carlos",
+   "Address": "Calle Las Flores 117, Colonia Victor Hugo",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BOCADOS DE AUTOR, S.A. DE C.V.",
+   "Address": "Av. Pablo Neruda 3085, Colonia Providencia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARECHIGA GAMBOA, Jose Rodrigo",
+   "Address": "Calle Clavel 1487, Colonia Margarita",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RIOS HERNANDEZ, Juanita Del Carmen",
+   "Address": "Avenida Constitucion No. 2224, Colonia San Rafael",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DISTRIBUIDORA E IMPORTADORA DE PRODUCTOS MEDICOS DEL NORTE, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARRENDADORA TURIN, S.A.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGRICOLA Y GANADERA CUEMIR, S.P.R. DE R.I.",
+   "Address": "Av. Prolongacion Vallarta No. 600, Zona Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COOPERATIVA AVESTRUZ CUEMIR, S.C. DE R.L. DE C.V.",
+   "Address": "Av. Prolongacion Vallarta No. 600 A, Zona Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUELLAR HURTADO, Hugo",
+   "Address": "Av. Artesanos 1498, Colonia Oblatos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CUELLAR SILVA, Jenny Johanna",
+   "Address": "Avenida Mexico 3335, Vallarta San Jorge",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MIRAMONTES GUTIERREZ, Ofelia Margarita",
+   "Address": "Calle Paseo del Ocelote 161, Fraccionamiento Bugambilias",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PRENDA TODO, S.A. DE C.V.",
+   "Address": "Andador Medrano 2845, Guadalajara Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ZAZUETA GODOY, Heriberto",
+   "Address": "Jose Aguilar Barraza 328, Al Poniente de la Colonia Jorge Almeda",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ROMERO ZEVADA, Demetrio",
+   "Address": "Nogalitos No. 17",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PRODUCCION PESQUERA DONA MARIELA, S.A. DE C.V.",
+   "Address": "Avenida Puerto Mazatlan 6, Colonia Parque Industrial Alfredo V Bonfil",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TAIPEN, S.A. DE C.V.",
+   "Address": "Av. Juan Palomar y Arias # 569, Col. Jardines Universidad",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA Y FRIGORIFICOS DE LA PERLA DEL PACIFICO, S.A. DE C.V.",
+   "Address": "Puerto de Mazatlan 6 D, Parque Industrial Alfredo V. Bonfil",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RESTAURANTE BEIRUT MEXICO S.A. DE C.V.",
+   "Address": "Juan Salvador Agraz No. 50, Colonias Lomas de Santa Fe, Delegacion Cuajimalpa",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BONA-HABITAT, S.A. DE C.V.",
+   "Address": "Morelos 2223, Col. Arcos Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AVINA BRIBIESCA, Jose",
+   "Address": "Avenida Santa Margarita numero 4950-86",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ LINARES, Janette Iliana",
+   "Address": "Primavera 3172, Col. Loma Bonita",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ HERNANDEZ, Ignacio",
+   "Address": "Paseo San Arturo numero 2051, Fraccionamiento Valle Real",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GASTELUM SERRANO, Cesar",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARAUJO URIARTE, Alejandra",
+   "Address": "Blvd. Guillermo Batiz Paredes No. 1100, Col. Buenos Aires",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ANDAMIOS DALMINE DE MEXICO, S.A.",
+   "Address": "J.J. Rousseau #14, Colonia Anzures",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARTEL DE JALISCO NUEVA GENERACION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOS CUINIS",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Abigael",
+   "Address": "Paseo Royal Country 5395-31, Fraccionamiento Royal Country",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALENZUELA VERDUGO, Jorge Mario",
+   "Address": "Antonio Rosales 280, Centro Culiacan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BRIONES RUIZ, Abel",
+   "Address": "Calle Bustamante No. 187",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BEATTIE DE BRIONES, Myriam Susana",
+   "Address": "Calle Segunda y Canales No. 10, Zona Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BRIONES RUIZ, Claudia Aide",
+   "Address": "Calle Bustamante 19 y 20, No. 187, Zona Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMBUSTIBLES BRIONES, S.A. DE C.V.",
+   "Address": "Carr. a Reynosa Km 21",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ INZUNZA, Juan Manuel",
+   "Address": "1538 Calle Turmalina Dos, Colonia Stase",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OLIVAS CHAIDEZ, Jose",
+   "Address": "CRT Club Campestre Campestre 788 Teran",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NUEVA ATUNERA TRITON S.A. DE C.V.",
+   "Address": "Calle Andrade 244 Colonia Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OPERADORA EFICAZ PEGASO",
+   "Address": "Benito Juarez 862",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AG & CARLON, S.A. DE C.V.",
+   "Address": "Diag. Hernan Cortes No. 29, Vallarta San Lucas",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BRIC INMOBILIARIA",
+   "Address": "Naciones Unidas # 6875, local 8a, Fracc. Vista del Tule",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSULTORIA INTEGRAL LA FUENTE, SOCIEDAD CIVIL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO DIJEMA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PLAZA LOS TULES",
+   "Address": "Av. Naciones Unidas # 6875, Fracc. Vista del Tule",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "XAMAN HA CENTER",
+   "Address": "Av. Balam Kanche Mza. 30, Lote 002, Condominio Playa Car Fase II",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AHOME REAL ESTATE, S.A. DE C.V.",
+   "Address": "Alberta No. 2166, Colomos Providencia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INTERCORP LEGOCA, S.A. DE C.V.",
+   "Address": "Avenida Fco I Madero 643, Colonia Guadalajara Centro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LA FIRMA MIRANDA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ CARLON, Diana Maria",
+   "Address": "Calle Ricardo Palma 2814, Colonia Prados Providencia",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAMACHO CAZARES, Jeniffer Beaney",
+   "Address": "Sendero De Los Olmos 110",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SANCHEZ CARLON, Silvia Romina",
+   "Address": "Calle Alberta No. 2166, Fraccionamiento Los Colomos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TORRES GONZALEZ, Fernando",
+   "Address": "Blvd. Puerta de Hierro # 5210, Piso 8-C, Puerta de Hierro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HOTELITO DESCONOCIDO",
+   "Address": "Playon de Mismaloya s/n, La Cruz de Loreto",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HD COLLECTION, S.A. DE C.V.",
+   "Address": "Boulevard Puerta de Hierro # 5210 8C, Col. Puerta de Hierro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "W&G ARQUITECTOS, S.A. DE C.V.",
+   "Address": "16 de Septiembre No. 21, Col. Manuel Avila Camacho",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIRCULO COMERCIAL TOTAL DE PRODUCTOS, S.A. DE C.V.",
+   "Address": "Blvd. Puerta de Hierro No. 5210, Puerta de Hierro",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AMARAL AREVALO, Wendy Dalaithy",
+   "Address": "Asuncion 747 Inter 301",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ARENAS DE LORETO",
+   "Address": "Pedro Moreno 1421, Col. Americana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "J & P ADVERTISING, S.A. DE C.V.",
+   "Address": "Calle Alberta No. 2166, Col. Los Colomos",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JJGON, S.P.R. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAS FLORES CABANAS",
+   "Address": "Km 5.4 Carretera Tapalpa - San Gabriel",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MIZU SUSHI LOUNGE",
+   "Address": "Av. Francisco Villa 1329 Planta Alta, Residencial Fluvial Vallarta",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ONZE BLACK",
+   "Address": "Antioquia # 2123-B, Col. Los Colomos",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIBIEN TELLA, Naim",
+   "Address": "Paseo San Carlos 319, Fracc. San Carlos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "UNOMASUNO",
+   "Address": "Gabino Barreda No. 86, Col. San Rafael, Del. Cuauhtemoc",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DIARIO AMANECER",
+   "Address": "Paseo Tollocan 613 Ote., Col. Valle Verde",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AEROLINEAS AMANECER, S.A. DE C.V.",
+   "Address": "Hangar 6 Zona C., Aviacion Gral. S/N",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VALGO GRUPO DE INVERSION S.A. DE C.V.",
+   "Address": "Avenida Bogota 3007, Colonia Circunvalacion Americas",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGRICOLA BOREAL S.P.R. DE R.L.",
+   "Address": "Naciones Unidas Numero 6885-22, Colonia Jardines del Tule",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AGRICOLA TAVO S.P.R. DE R.L.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ASESORES TURISTICOS S.A. DE C.V.",
+   "Address": "Dr. Jose Maria Vertiz 646, Col. Narvarte",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLO AGRICOLA ORGANICO S.P.R. DE R.L.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DESARROLLO AGRICOLA VERDE DE SAYULA S.P.R. DE R.L.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "STEP LATINAMEDICA S.A. DE C.V.",
+   "Address": "Av. Americas 1501, Piso 20 Punto Sao Paulo, Col. Providencia",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "STATUS ADMINISTRATIVO S. DE R.L.",
+   "Address": "Sao Paulo 2435",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO WISA, S.A.",
+   "Address": "Calle 15 entre Avenida Santa Isabel y Avenida Roosevelt, Zona Libre de Colon",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS TORRES DRUG TRAFFICKING ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS TORRES, Jose Luis",
+   "Address": "P 112",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS TORRES, Gilberto",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS AVILA, Leobardo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS AVILA, Joel Efren",
+   "Address": "Calle 10 Sin Numero",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RIVERA SANDOVAL, Hector Librado",
+   "Address": "La Playita",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESPINOZA RODRIGUEZ, Maria de Jesus",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BARRAZA ACEVES, Jose Carlos",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAREDO DON JUAN, Job",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAREDO DRUG TRAFFICKING ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAREDO DONJUAN, Ismael",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAREDO DONJUAN, Ruben",
+   "Address": "Sn Francisco 471, Santa Ana Zicatecoyan",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BARRIOS HERNANDEZ, Mercedes",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GOMEZ VELAZQUEZ, Daniela",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "REYNA FELIX, Ismael",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MARCELO BARRAGAN, Antonio",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LAREDO ESTRADA, Andres",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIRA SOTELO, Alfonso",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "IMPERIAL CASTRO, Eliseo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIRA SOTELO, Javier",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LIRA SOTELO, Alma Delia",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS AVILA, Jesus Angel",
+   "Address": "C 14 S/N, Loc Genaro Estrada",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MONDACA AVILA, Sigi Alfredo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MUNOZ HOYOS, German",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MUNOZ MEJIA, Jonathan",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MURILLO SALAZAR, Claudia Julieta",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MUNOZ MEJIA, Eliana",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MUNOZ MEJIA, Jhonny German",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "OSEGUERA CERVANTES, Antonio",
+   "Address": "Priv Linda Vista 3986, Fracc El Soler",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CASTILLO RODRIGUEZ, Julio Alberto",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Arnulfo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Edgar Eden",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Elvis",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Marisa Ivette",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GONZALEZ VALENCIA, Noemi",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "VERA LOPEZ, Fabian Felipe",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "QUINTANA NAVARRO, Maria Teresa",
+   "Address": "C. Jose Vasconcelos 556, Col. Colinas De La Normal",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LUGO LEON, Toribio Alberto",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES DRUG TRAFFICKING ORGANIZATION",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES HERNANDEZ, Raul",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES CHAVEZ, Kevin Sebastian",
+   "Address": "Calle Tchaikovsky 474, Col. Arcos de Guadalupe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES ESPARZA, Moises",
+   "Address": "C Playa Santiago 6041, Dep. 3, Rdcial Moctezuma PTE",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES TINAJERO, Saul",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES GOMEZ, Felipe",
+   "Address": "Mariano Abasolo 87, Autlan de Navarro Centro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "AYALA ROMERO, Diego",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARRANZA ZEPEDA, Victor Manuel",
+   "Address": "Av. Rio Nilo 69, Col. Camichines",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARRANZA ZEPEDA, Hugo Ivan",
+   "Address": "Av. Rio Nilo 69, Col. Camichines",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAMPOS TIRADO, Linda Elizabeth",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO URIAS, Efrain",
+   "Address": "Av. de las Americas 2000-607, Col. Vista del Country",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CARO URIAS, Omar",
+   "Address": "Calle San Gonzalo 1970-43, Col. Santa Isabel",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORDERO CARDENAS, Jose Antonio",
+   "Address": "C Eca Do Queiros 5522, Col. Vallarta Universidad",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JIMENEZ HERNANDEZ, Oscar Armando",
+   "Address": "Calle Ramon Castellanos 1037-A, Col. San Isidro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ PERALTA, Fernando Gustavo",
+   "Address": "",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CHAVEZ MARTINEZ, Maria Icela",
+   "Address": "Tchaikovsky 474, Col. Arcos de Guadalupe",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "DAMIAN RAMIREZ, Irma Lizet",
+   "Address": "Dominico Scarlatti 260, Col. Vallarta La Patria",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FLORES CASTRO, Sendy",
+   "Address": "Av. Ramon Corona 4750, Loc. 15, Col. Exhacienda de la Mora",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FERNANDEZ SANTANA, Mario Alberto",
+   "Address": "Av. Moctezuma 4297, Col. Jardines del Sol",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "A & S CARRIER INTERNACIONAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "BOUNGALOWS VILLA AZUL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CAMELIAS BAR, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CLUB DEPORTIVO MORUMBI, ASOCIACION CIVIL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA CHAPALA AJIJIC, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "COMERCIALIZADORA E IMPORTADORA YESSI, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSORCIO LUNALO, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSORCIO NUJOMA, SOCIEDAD CIVIL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSORCIO RIRFUS, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CONSORCIO VINICOLA DE OCCIDENTE, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORPORATIVO ARZACA, S.C.",
+   "Address": "Av. Adolfo Lopez Mateos 525-C, Int. 4, Col. Circunvalacion Guevara",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORPORATIVO FEARFI, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORPORATIVO INMOBILIARIO UNIVERSAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CORPORATIVO SOSVAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRAND CASINO",
+   "Address": "Av. Adolfo Lopez Mateos Sur 4527, Col. La Calma",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "CIRCULO REPRESENTACIONES INTERNACIONALES, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "EVENTOS LA MORA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FC GRUPO EMPRESARIAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO EGMONT, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO GASOLINERO COJIM, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO PRODUCSIL, S.P.R. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "INMOBILIARIA FLORES CASTRO, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "LOLA LOLITA 1110, S. DE R.L. DE C.V.",
+   "Address": "Av. Vallarta 1110, Col. Americana",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MARIMBA ENTERTAINMENT, S.R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NOCTURNUM INC, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RESTAURANT FOLKLOR Y CANTINA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RODRIGUEZ LOPEZ, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIOS EMPRESARIALES SODA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MONTALVA INMOBILIARIA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIOS EMPRESARIALES FICIE, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "YORV INMOBILIARIA",
+   "Address": "Av. Naciones Unidas 6875 LB17-1",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO SEGTAC, S.A. DE C.V.",
+   "Address": "Av. Chapultepec No. 15, Piso 16-A Of. 1, Colonia Ladron de Guevara",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "MARQUEZ ALVAREZ, Rafael",
+   "Address": "Calle Popocatepetl 2907-1, Col. Ciudad del Sol",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "HEREDIA HORNER, Mauricio",
+   "Address": "Calle Ceja de la Barranca 500-4, Fracc. Loma Real",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FREGOSO GONZALEZ, Marco Antonio",
+   "Address": "Av. Patria 2085, Mezzanine, Col. Puerta de Hierro",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ESCUELA DE FUTBOL RAFAEL MARQUEZ, ASOCIACION CIVIL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "FUTBOL Y CORAZON, ASOCIACION CIVIL",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO DEPORTIVO ALVANER, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO DEPORTIVO MARQUEZ PARDO, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO NUTRICIONAL ALHOMA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO TERAPEUTICO HORMARAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "GRUPO TERAPEUTICO PUERTO VALLARTA, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "PROSPORT & HEALTH IMAGEN, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "SERVICIOS EDUCATIVOS Y DE NEGOCIOS, S. DE R.L. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "ALVAREZ MONTELONGO, Julio Cesar",
+   "Address": "Paseo de la Hacienda 443, Fracc. Los Mangos",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "JCAM EDITORA MUSICAL, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "NORYBAN PRODUCTIONS, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "TICKET BOLETO, S.A. DE C.V.",
+   "Address": "",
+   "Type": "Entity",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ },
+ {
+   "Name": "RUELAS AVILA, Jose Luis",
+   "Address": "C 14 S/N, Loc Genaro Estrada",
+   "Type": "Individual",
+   "Program(s)": "SDNTK",
+   "List": "SDN",
+   "Score": ""
+ }
+]
